@@ -66,8 +66,7 @@ def average_par_on_surface(t, latitude):
     return average_par
 
 # Example usage: Calculate average PAR for day 100 at latitude 45 degrees
-day_of_year = 100
-days=np.arange(1,365)
+days=[100]
 lat=30
 irr=[]
 for t in range(0,len(days)):
