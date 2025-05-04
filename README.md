@@ -8,9 +8,7 @@ A simple Python tool to calculate **Day Length** and **Photosynthetically Active
 
 - 🌍 Calculates **day length** based on date and geographical latitude.
 - ☀️ Computes **PAR (Photosynthetically Active Radiation)** using solar constant and daylight hours.
-- 📤 Accepts **user input** directly from the terminal.
-- 🧪 Ideal for use in **agriculture**, **ecology**, and **climate science** applications.
-
+- 
 ---
 
 ## 🚀 Getting Started
